@@ -1,0 +1,17 @@
+dump0 - dump1
+Linking Statistics
+Number of source entities:	13242
+Number of target entities:	13391
+Number of links:	4932
+
+dump0 - dump2
+Linking Statistics
+Number of source entities:	13242
+Number of target entities:	13283
+Number of links:	4994
+
+dump1 - dump2
+Linking Statistics
+Number of source entities:	13391
+Number of target entities:	13283
+Number of links:	4932

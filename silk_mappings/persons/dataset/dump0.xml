@@ -1,0 +1,5 @@
+<Dataset id="dump0" type="file">
+  <Param name="file" value="dump0.nt"/>
+  <Param name="format" value="NTRIPLES"/>
+  <Param name="graph" value=""/>
+</Dataset>
